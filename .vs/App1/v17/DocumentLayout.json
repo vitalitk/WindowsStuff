@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LCIUSER\\source\\repos\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|C:\\Users\\LCIUSER\\source\\repos\\App1\\app1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|solutionrelative:app1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|c:\\users\\lciuser\\source\\repos\\app1\\app1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|solutionrelative:app1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|c:\\users\\lciuser\\source\\repos\\app1\\app1\\blankpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|solutionrelative:app1\\blankpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|c:\\users\\lciuser\\source\\repos\\app1\\app1\\blankpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|solutionrelative:app1\\blankpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|c:\\users\\lciuser\\source\\repos\\app1\\app1\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|solutionrelative:app1\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|C:\\Users\\LCIUSER\\source\\repos\\App1\\app1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|solutionrelative:app1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|C:\\Users\\LCIUSER\\source\\repos\\App1\\app1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21897D1D-9AD9-4308-BA05-6D9F8DB29B3C}|App1\\App1.csproj|solutionrelative:app1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LCIUSER\\source\\repos\\Ass3\\Ass3\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "App1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs",
+              "RelativeToolTip": "App1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs",
+              "ViewState": "AQIAACgAAABAZmZmZuYcwC0AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:14:21.753Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "App1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\MainWindow.xaml",
+              "RelativeToolTip": "App1\\MainWindow.xaml",
+              "ViewState": "AQIAAB4AAACAAAAAAAABwCcAAAC4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T18:30:45.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "App1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADMAAADAzMzMzAwpwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:13:11.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "App1\\Package.appxmanifest",
+              "ToolTip": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\Package.appxmanifest",
+              "RelativeToolTip": "App1\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-04-15T03:11:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlankPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\BlankPage1.xaml",
+              "RelativeDocumentMoniker": "App1\\BlankPage1.xaml",
+              "ToolTip": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\BlankPage1.xaml",
+              "RelativeToolTip": "App1\\BlankPage1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T03:37:08.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlankPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\BlankPage1.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\BlankPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\BlankPage1.xaml.cs",
+              "RelativeToolTip": "App1\\BlankPage1.xaml.cs",
+              "ViewState": "AQIAAAwAAAAwMzMzM5MwwBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:39:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LCIUSER\\source\\repos\\Ass3\\Ass3\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Ass3\\Ass3\\Form1.cs",
+              "ToolTip": "C:\\Users\\LCIUSER\\source\\repos\\Ass3\\Ass3\\Form1.cs",
+              "RelativeToolTip": "..\\Ass3\\Ass3\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:28:52.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\App.xaml.cs",
+              "RelativeToolTip": "App1\\App.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:22:13.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\App.xaml",
+              "RelativeDocumentMoniker": "App1\\App.xaml",
+              "ToolTip": "C:\\Users\\LCIUSER\\source\\repos\\App1\\App1\\App.xaml",
+              "RelativeToolTip": "App1\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T19:24:33.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
