@@ -38,7 +38,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Assets\CalcPage.xaml" />
-    <None Remove="BlankPage1.xaml" />
+    <None Remove="ButtonPage.xaml" />
+    <None Remove="CalcPage.xaml" />
+    <None Remove="SuicidePage.xaml" />
   </ItemGroup>
 
   <ItemGroup>
@@ -66,7 +68,17 @@
     <ProjectCapability Include="Msix" />
   </ItemGroup>
   <ItemGroup>
-    <Page Update="BlankPage1.xaml">
+    <Page Update="SuicidePage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ButtonPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="CalcPage.xaml">
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>

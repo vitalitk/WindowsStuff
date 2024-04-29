@@ -16,31 +16,27 @@
         <Grid x:ConnectionId='2' x:Name="AppTitleBar"
               Height="32">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition x:ConnectionId='6' x:Name="LeftPaddingColumn" Width="1"/>
-                <ColumnDefinition x:ConnectionId='7' x:Name="IconColumn" Width="Auto"/>
-                <ColumnDefinition x:ConnectionId='8' x:Name="TitleColumn" Width="*"/>
+                <ColumnDefinition x:ConnectionId='5' x:Name="LeftPaddingColumn" Width="1"/>
+                <ColumnDefinition x:ConnectionId='6' x:Name="IconColumn" Width="Auto"/>
+                <ColumnDefinition x:ConnectionId='7' x:Name="TitleColumn" Width="*"/>
             </Grid.ColumnDefinitions>
             <!--add icon-->
-            <Image x:ConnectionId='9' x:Name="AppIcon"
+            <Image x:ConnectionId='8' x:Name="AppIcon"
                    Source="Assets/Square64x64.png"
                    Grid.Column="1"
                    VerticalAlignment="Center"/>
-            <TextBlock x:ConnectionId='10' x:Name="TitleBarTextBlock"
+            <TextBlock x:ConnectionId='9' x:Name="TitleBarTextBlock"
                        Text="WinUI Experimentations" 
                        Style="{StaticResource CaptionTextBlockStyle}"
                        Grid.Column="2"
                        VerticalAlignment="Center">
             </TextBlock>
         </Grid>
-        <!--Create a stack panel to hold a button in the center of the window-->
-        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Button x:ConnectionId='5' x:Name="myButton"                       >Click Me</Button>
-        </StackPanel>
-
         <NavigationView x:ConnectionId='3' x:Name="NavView" IsSettingsVisible="False" IsBackButtonVisible="Collapsed" PaneDisplayMode="LeftMinimal" Grid.Row="1"                                            >
             <NavigationView.MenuItems>
-                <NavigationViewItem Content="Button" Icon="GlobalNavigationButton" Tag="MainPage"/>
+                <NavigationViewItem Content="Button" Icon="GlobalNavigationButton" Tag="ButtonPage"/>
                 <NavigationViewItem Content="Calculator" Icon="Calculator" Tag="CalcPage"/>
+                <NavigationViewItem Content="Suicide" Icon="Delete" Tag="SuicidePage"/>
             </NavigationView.MenuItems>
             <Frame x:ConnectionId='4' x:Name="ContentFrame"/>
         </NavigationView>
@@ -48,10 +44,8 @@
         
     </Grid>
 
-    
     <Window.SystemBackdrop>
         <MicaBackdrop Kind="Base"/>
-    </Window.SystemBackdrop>
-    
+    </Window.SystemBackdrop>    
 </Window>
 

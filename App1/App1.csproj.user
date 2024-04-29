@@ -7,7 +7,13 @@
     <None Update="App.xaml">
       <SubType>Designer</SubType>
     </None>
-    <Page Update="BlankPage1.xaml">
+    <Page Update="SuicidePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ButtonPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CalcPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <None Update="MainWindow.xaml">

@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\LCIUSER\source\repos\App1\App1\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-15T03:51:42.356</Modified>
+      <Modified>2024-04-29T18:48:57.717</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\LCIUSER\source\repos\App1\App1\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-15T03:51:42.059</Modified>
+      <Modified>2024-04-26T17:22:07.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LCIUSER\source\repos\App1\App1\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\App1.runtimeconfig.json">
       <PackagePath>App1.runtimeconfig.json</PackagePath>
@@ -44,15 +44,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LCIUSER\source\repos\App1\App1\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\App1.dll">
       <PackagePath>App1.dll</PackagePath>
-      <Modified>2024-04-15T03:51:41.966</Modified>
+      <Modified>2024-04-29T18:48:57.379</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LCIUSER\source\repos\App1\App1\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\apphost.exe">
       <PackagePath>App1.exe</PackagePath>
-      <Modified>2024-04-15T03:51:41.966</Modified>
+      <Modified>2024-04-29T18:48:57.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LCIUSER\source\repos\App1\App1\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\App1.deps.json">
       <PackagePath>App1.deps.json</PackagePath>
-      <Modified>2024-04-15T03:44:34.273</Modified>
+      <Modified>2024-04-16T19:20:59.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LCIUSER\.nuget\packages\microsoft.netcore.app.runtime.win-x86\6.0.28\runtimes\win-x86\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>

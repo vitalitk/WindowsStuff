@@ -32,15 +32,11 @@
                        VerticalAlignment="Center">
             </TextBlock>
         </Grid>
-        <!--Create a stack panel to hold a button in the center of the window-->
-        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Button x:Name="myButton" Click="myButton_Click">Click Me</Button>
-        </StackPanel>
-
         <NavigationView x:Name="NavView" IsSettingsVisible="False" IsBackButtonVisible="Collapsed" PaneDisplayMode="LeftMinimal" Grid.Row="1" SelectionChanged="NavView_SelectionChanged">
             <NavigationView.MenuItems>
-                <NavigationViewItem Content="Button" Icon="GlobalNavigationButton" Tag="MainPage"/>
+                <NavigationViewItem Content="Button" Icon="GlobalNavigationButton" Tag="ButtonPage"/>
                 <NavigationViewItem Content="Calculator" Icon="Calculator" Tag="CalcPage"/>
+                <NavigationViewItem Content="Suicide" Icon="Delete" Tag="SuicidePage"/>
             </NavigationView.MenuItems>
             <Frame x:Name="ContentFrame"/>
         </NavigationView>
@@ -48,9 +44,7 @@
         
     </Grid>
 
-    
     <Window.SystemBackdrop>
         <MicaBackdrop Kind="Base"/>
-    </Window.SystemBackdrop>
-    
+    </Window.SystemBackdrop>    
 </Window>

@@ -41,9 +41,13 @@ namespace App1
         /// </summary>
         /// <param name="args">Details about the launch request and process.</param>
         protected override void OnLaunched(Microsoft.UI.Xaml.LaunchActivatedEventArgs args)
-        {
+        { 
+
             m_window = new MainWindow();
             m_window.Activate();
+            // Navigate to BlankPage2 on launch
+            Frame rootFrame = new Frame();
+            rootFrame.Navigate(typeof(ButtonPage));
         }
 
         private Window m_window;
